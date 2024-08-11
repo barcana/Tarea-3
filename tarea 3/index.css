@@ -1,0 +1,21 @@
+/** 
+        Colores utilizados en la página:
+        - Color 1: #FFFAF0 (Ivory)
+        - Color 2: #4B0082 (Indigo)
+        - Color 3: #FFD700 (Gold)
+        - Color 4: #DC143C (Crimson)
+        **/
+
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        
+        h1 {
+            color: #333333;
+        }
+        
+        p {
+            color: #666666;
+        }
+        
